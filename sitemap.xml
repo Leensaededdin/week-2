@@ -12,6 +12,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/marlborough-sauvignon-blanc/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/hawkes-bay-syrah/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/new-zealand-rose/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
